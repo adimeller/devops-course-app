@@ -14,7 +14,7 @@ MongoDB - an external Document DB that we use to store our data
    Running it using Docker (given that you have Docker installed)
 
 ```bash
-#Running mongodb
+#Running mongodb  meller
   docker run --name example-mongo -p 27017:27017  -d mongo
 ```
 
